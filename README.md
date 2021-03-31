@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsRuzz
+- 👋 Hi, I’m @zDarkChoco
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP and more about Jquery,Ajax and Bootstrap
 - 💞️ I’m looking to collaborate on any website project
